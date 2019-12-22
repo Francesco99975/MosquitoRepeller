@@ -1,3 +1,3 @@
 # mosquito_frequency_repellent
 
-An application with the simple inetent of repelling insects
+An application with the simple intent of repelling insects
