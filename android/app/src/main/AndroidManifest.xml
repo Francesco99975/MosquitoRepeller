@@ -7,8 +7,8 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="mosquito_frequency_repellent"
-        android:icon="@mipmap/ic_launcher">
+        android:label="Mosquito Repellent Frequency"
+        android:icon="@mipmap/ic_launcher_mosquito_round">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
